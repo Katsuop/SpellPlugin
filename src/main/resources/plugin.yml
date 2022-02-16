@@ -1,0 +1,4 @@
+name: SpellPlugin
+version: 1.0.0
+author: Katsuo
+main: fr.katsuo.spell.Spell
